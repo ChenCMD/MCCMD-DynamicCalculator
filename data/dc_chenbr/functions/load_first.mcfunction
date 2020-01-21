@@ -8,7 +8,7 @@
 #ハードコーディング不要計算システム
 #使い方: data modify storage chenbr:dc_data Calc.Base set ~
 #上記のコマンドでCalc.Baseに計算元情報を入れる
-#このfunctionを実行後に実行者のスコアボード: Calc_ChenBRに計算結果が入る
+#dc_chenbr:calc/mainを実行後に実行者のCalc_ChenBRに計算結果が入る
 #
 #計算元情報
 #[
